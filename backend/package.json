@@ -1,0 +1,15 @@
+{
+  "name": "utsav-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "pg": "^8.11.0"
+  }
+}
